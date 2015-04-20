@@ -1,5 +1,7 @@
 A:
 0000000000400624 T _Z7averagePdRd (average(double * n1, double & n2)
+
+
 000000000040064c T _Z7averageif  (average(int n1, float n2))
 
 B:
